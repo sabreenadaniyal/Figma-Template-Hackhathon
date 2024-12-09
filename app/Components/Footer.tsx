@@ -42,8 +42,8 @@ const Footer = () => {
                 <Image src="/hero section/SHOP.CO.png" alt="logo"
                   width={167}
                   height={23} />
-                <p className='w-[248px] h-[66px] text-[14px] leading-[26px] mt-4 max-w-[250px]'>We have clothes that suits your style and which you're proud to wear.
-                  From women to men.
+                <p className='w-[248px] h-[66px] text-[14px] leading-[26px] mt-4 max-w-[250px]'>We have clothes that suits your style and which you're proud to
+                  wear, From women to men.
                 </p>
                 <div className='flex w-[148px] h-[28px] gap-3 mt-11 space-x-4'>
                   <Link href="https://www.linkedin.com/in/sabreena-zahid-ali-1343a8198/" target="_blank">
