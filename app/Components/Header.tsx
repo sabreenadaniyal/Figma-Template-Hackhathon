@@ -5,7 +5,6 @@ import { CiSearch } from "react-icons/ci";
 import { IoCartOutline } from "react-icons/io5";
 import { FaRegUser } from "react-icons/fa";
 import MobileHeader from "./MobileHeader";
-import { NavigationMenuDemo } from "./NavigationDemo";
 
 
 const Header = () => {
