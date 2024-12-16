@@ -12,7 +12,6 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet"
-import { NavigationMenuDemo } from './NavigationDemo';
 
 
 const MobileHeader = () => {
@@ -28,7 +27,7 @@ const MobileHeader = () => {
             <SheetDescription className="bg-white text-lg ">
               <nav className="items-center flex flex-col space-x-10">
                 <Link href="/shop" className="hover:text-gray-900 text-gray-700 text-center items-center ml-10">
-                  <NavigationMenuDemo /></Link>
+                  Shop <FaAngleDown /></Link>
                 <Link href="/sale" className="hover:text-gray-900">On Sale</Link>
                 <Link href="/new arrival" className="hover:text-gray-900">New Arrival</Link>
                 <Link href="/brands" className="hover:text-gray-900 ">Brands</Link>
