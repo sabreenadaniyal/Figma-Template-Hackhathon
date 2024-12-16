@@ -21,7 +21,7 @@ const Header = () => {
         {/* Navigation Menu */}
         <nav className="hidden lg:flex items-center space-x-8">
           <Link href="/shop" className="hover:text-gray-900 flex items-center bg-white hover:bg-gray-300">
-          <NavigationMenuDemo />
+           Shop <FaAngleDown />
            </Link>
           <Link href="/TopSelling" className="hover:text-gray-900 hover:bg-gray-300">
             On Sale
